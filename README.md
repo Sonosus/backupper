@@ -1,6 +1,8 @@
 # Quick And Dirty Backup Script
 Ultra basic backupper using rclone to remotely copy files from user's home folder to a new timestamped folder in OneDrive.
 
+Bonus! Only 8 lines of code!
+
 ## Prerequisites
 * Python 3
 * rclone
